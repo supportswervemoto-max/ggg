@@ -1,7 +1,25 @@
-# Start Your Own AI Bot V2 — Roblox Studio download
+# Start Your Own AI Bot — Downloads
 
-Download `StartYourOwnAIBot-V2.zip` using GitHub's **Download raw file** button, then extract it. In Roblox Studio choose **File → Open from File**, select `StartYourOwnAIBot-V2.rbxlx` and press **Play**.
+## Latest: V3 / The Neighborhood Update
 
-You can also download the standalone `.rbxlx` file here. No npm, API key, or Roblox plugin is required. See the README inside the ZIP for controls and setup details.
+**[Download V3 ZIP](https://github.com/supportswervemoto-max/ggg/raw/refs/heads/roblox-v2-download/downloads/StartYourOwnAIBot-V3.zip)**
 
-This is a procedural prototype with a story intro, warehouse tutorial, laptop interface and an in-game upgrade economy. Local syntax, package and simulated server behavior checks passed; it has not been playtested in Roblox Studio. Progress does not yet save between sessions.
+Extract it, then open **StartYourOwnAIBot-V3.rbxlx** in Roblox Studio using **File → Open from File**. Press Play. No plugins or npm required.
+
+V3 fixes V2's incorrect Block/Ball XML shape values, which made the ground render as an ellipsoid. The new map has a flat anchored 640 × 600 stud foundation and more than 1,800 modeled parts: houses, streets, shops, a park, offices, a warehouse and a loading yard. There is a neighborhood guide and three collectible research notebooks.
+
+Read the README inside the ZIP for controls, scope and the Studio test checklist. Source is in [`roblox-v3`](../roblox-v3).
+
+### Geometry previews
+
+These are Blender renders of the **exported XML geometry**, not Roblox Studio screenshots. They verify layout and shape export, but do not reproduce Roblox UI, lighting, signs or runtime behavior.
+
+![City geometry preview](City-Geometry-Preview-V3.png)
+
+![Warehouse geometry preview](Warehouse-Geometry-Preview-V3.png)
+
+### Validation
+
+Shape/material values checked against Roblox API definitions; flat collidable block ground checked; Lua-compatible syntax, package parity and server behavior tests passed. Roblox Studio playtesting is still required. Progress does not yet persist between sessions.
+
+V2 files remain here for history. **Use V3**, not the old V2 place.

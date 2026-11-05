@@ -1,0 +1,7 @@
+PASS server harness: story/tutorial, visibility, course, training, cash/income, distance, duplicate purchases, all upgrades, plot isolation and cleanup
+PASS Lua 5.4-compatible syntax: Server.luau
+PASS Lua 5.4-compatible syntax: Client.luau
+PASS Lua 5.4-compatible syntax: Install-AIBot-V3.luau
+PASS independent Roblox API shape/material checks and flat collidable ground regression
+PASS XML, rotations, scene references, source parity, and walking corridor
+PASS ZIP CRC and file membership
