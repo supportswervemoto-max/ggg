@@ -1,0 +1,7 @@
+PASS clothing-company server harness: username company, 15-second website, build/hire/ad tutorial, sales, wages, day completion, expansion, validation, plot isolation and cleanup
+PASS Lua 5.4-compatible syntax: Server.luau
+PASS Lua 5.4-compatible syntax: Client.luau
+PASS Lua 5.4-compatible syntax: Install-ClothingCompany-V4.luau
+PASS independent Roblox API shape/material checks and flat collidable ground regression
+PASS XML, rotations, clothing scene references, source parity, and initial walking corridor
+PASS ZIP CRC and file membership

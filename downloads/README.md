@@ -1,4 +1,16 @@
-# Start Your Own AI Bot — Downloads
+# Roblox Game Downloads
+
+## Latest: Start Your Own Clothing Company V4
+
+**[Download Clothing Company V4 ZIP](https://github.com/supportswervemoto-max/ggg/raw/refs/heads/roblox-v2-download/downloads/StartYourOwnClothingCompany-V4.zip)**
+
+Extract it, then open **StartYourOwnClothingCompany-V4.rbxlx** through Roblox Studio's **File → Open from File**. This is the new clothing-company concept: create a website, build clothing workstations, hire fulfilment employees, advertise, complete business days, and grow to a $1,000,000 company. The live top-right HUD displays `[Username]'s Company` and its balance.
+
+All fashion labels in the prototype are fictional. V4 has a separate source folder at [`roblox-v4`](../roblox-v4). Progress currently resets when the server closes, and Roblox Studio playtesting is still required.
+
+---
+
+# Previous AI Bot Prototype Downloads
 
 ## Latest: V3 / The Neighborhood Update
 
